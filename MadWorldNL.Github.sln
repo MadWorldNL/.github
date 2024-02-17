@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution-files", "solution-files", "{5869DB10-0645-409D-9CB3-177B170F96FC}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		MadWorldNL.Github.sln = MadWorldNL.Github.sln
+		README.md = README.md
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Profile", "Profile", "{F22AE120-439D-4CA3-A015-8CEAB11F0BFB}"
+	ProjectSection(SolutionItems) = preProject
+		profile\README.md = profile\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F22AE120-439D-4CA3-A015-8CEAB11F0BFB} = {5869DB10-0645-409D-9CB3-177B170F96FC}
+	EndGlobalSection
+EndGlobal
